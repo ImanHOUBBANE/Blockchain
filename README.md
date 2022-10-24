@@ -3,4 +3,4 @@ Blockchains are data structures where blocks are inseparably connected. What mak
 
 Blockchains are unhackable, so it makes perfect sense why cryptocurrency makes use of this technology. 
 
-In this project, we makea microcosm where virtual miners earn cryptocurrency and exchange messages and transactions using blockchain. 
+In this project, we make a blockchain system where virtual miners earn cryptocurrency and exchange messages and transactions using blockchain. 
